@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\StructsInCsharp\bin\Debug\net8.0\StructsInCsharp.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\StructsInCsharp\bin\Debug\net8.0\StructsInCsharp.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\StructsInCsharp\bin\Debug\net8.0\StructsInCsharp.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\StructsInCsharp\bin\Debug\net8.0\StructsInCsharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\StructsInCsharp\bin\Debug\net8.0\StructsInCsharp.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\StructsInCsharp\obj\Debug\net8.0\StructsInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\StructsInCsharp\obj\Debug\net8.0\StructsInCsharp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\StructsInCsharp\obj\Debug\net8.0\StructsInCsharp.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\StructsInCsharp\obj\Debug\net8.0\StructsInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\StructsInCsharp\obj\Debug\net8.0\StructsInCsharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\StructsInCsharp\obj\Debug\net8.0\refint\StructsInCsharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\StructsInCsharp\obj\Debug\net8.0\StructsInCsharp.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\StructsInCsharp\obj\Debug\net8.0\StructsInCsharp.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\StructsInCsharp\obj\Debug\net8.0\ref\StructsInCsharp.dll

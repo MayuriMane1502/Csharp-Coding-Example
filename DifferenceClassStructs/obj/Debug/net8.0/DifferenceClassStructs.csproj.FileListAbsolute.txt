@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceClassStructs\bin\Debug\net8.0\DifferenceClassStructs.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceClassStructs\bin\Debug\net8.0\DifferenceClassStructs.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceClassStructs\bin\Debug\net8.0\DifferenceClassStructs.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceClassStructs\bin\Debug\net8.0\DifferenceClassStructs.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceClassStructs\bin\Debug\net8.0\DifferenceClassStructs.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceClassStructs\obj\Debug\net8.0\DifferenceClassStructs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceClassStructs\obj\Debug\net8.0\DifferenceClassStructs.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceClassStructs\obj\Debug\net8.0\DifferenceClassStructs.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceClassStructs\obj\Debug\net8.0\DifferenceClassStructs.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceClassStructs\obj\Debug\net8.0\DifferenceClassStructs.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceClassStructs\obj\Debug\net8.0\refint\DifferenceClassStructs.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceClassStructs\obj\Debug\net8.0\DifferenceClassStructs.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceClassStructs\obj\Debug\net8.0\DifferenceClassStructs.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceClassStructs\obj\Debug\net8.0\ref\DifferenceClassStructs.dll
