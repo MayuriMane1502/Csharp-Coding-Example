@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleWithoutUsingEnums\obj\Debug\net8.0\WhyEnumExampleWithoutUsingEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleWithoutUsingEnums\obj\Debug\net8.0\WhyEnumExampleWithoutUsingEnums.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleWithoutUsingEnums\obj\Debug\net8.0\WhyEnumExampleWithoutUsingEnums.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleWithoutUsingEnums\obj\Debug\net8.0\WhyEnumExampleWithoutUsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleWithoutUsingEnums\bin\Debug\net8.0\WhyEnumExampleWithoutUsingEnums.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleWithoutUsingEnums\bin\Debug\net8.0\WhyEnumExampleWithoutUsingEnums.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleWithoutUsingEnums\bin\Debug\net8.0\WhyEnumExampleWithoutUsingEnums.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleWithoutUsingEnums\bin\Debug\net8.0\WhyEnumExampleWithoutUsingEnums.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleWithoutUsingEnums\bin\Debug\net8.0\WhyEnumExampleWithoutUsingEnums.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleWithoutUsingEnums\obj\Debug\net8.0\WhyEnumExampleWithoutUsingEnums.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleWithoutUsingEnums\obj\Debug\net8.0\refint\WhyEnumExampleWithoutUsingEnums.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleWithoutUsingEnums\obj\Debug\net8.0\WhyEnumExampleWithoutUsingEnums.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleWithoutUsingEnums\obj\Debug\net8.0\WhyEnumExampleWithoutUsingEnums.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleWithoutUsingEnums\obj\Debug\net8.0\ref\WhyEnumExampleWithoutUsingEnums.dll
