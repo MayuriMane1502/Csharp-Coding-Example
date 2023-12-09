@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\AttributesInCSharp\obj\Debug\net8.0\AttributesInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\AttributesInCSharp\obj\Debug\net8.0\AttributesInCSharp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\AttributesInCSharp\obj\Debug\net8.0\AttributesInCSharp.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\AttributesInCSharp\obj\Debug\net8.0\AttributesInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\AttributesInCSharp\bin\Debug\net8.0\AttributesInCSharp.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\AttributesInCSharp\bin\Debug\net8.0\AttributesInCSharp.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\AttributesInCSharp\bin\Debug\net8.0\AttributesInCSharp.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\AttributesInCSharp\bin\Debug\net8.0\AttributesInCSharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\AttributesInCSharp\bin\Debug\net8.0\AttributesInCSharp.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\AttributesInCSharp\obj\Debug\net8.0\AttributesInCSharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\AttributesInCSharp\obj\Debug\net8.0\refint\AttributesInCSharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\AttributesInCSharp\obj\Debug\net8.0\AttributesInCSharp.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\AttributesInCSharp\obj\Debug\net8.0\AttributesInCSharp.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\AttributesInCSharp\obj\Debug\net8.0\ref\AttributesInCSharp.dll
