@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\ProjectA.TeamB\bin\Debug\net8.0\ProjectA.TeamB.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\ProjectA.TeamB\bin\Debug\net8.0\ProjectA.TeamB.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ProjectA.TeamB\bin\Debug\net8.0\ProjectA.TeamB.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\ProjectA.TeamB\obj\Debug\net8.0\ProjectA.TeamB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\ProjectA.TeamB\obj\Debug\net8.0\ProjectA.TeamB.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ProjectA.TeamB\obj\Debug\net8.0\ProjectA.TeamB.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\ProjectA.TeamB\obj\Debug\net8.0\ProjectA.TeamB.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ProjectA.TeamB\obj\Debug\net8.0\ProjectA.TeamB.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ProjectA.TeamB\obj\Debug\net8.0\refint\ProjectA.TeamB.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ProjectA.TeamB\obj\Debug\net8.0\ProjectA.TeamB.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\ProjectA.TeamB\obj\Debug\net8.0\ref\ProjectA.TeamB.dll
