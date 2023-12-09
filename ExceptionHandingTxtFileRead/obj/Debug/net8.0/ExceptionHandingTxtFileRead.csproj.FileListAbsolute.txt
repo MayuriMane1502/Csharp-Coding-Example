@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\ExceptionHandingTxtFileRead\bin\Debug\net8.0\ExceptionHandingTxtFileRead.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\ExceptionHandingTxtFileRead\bin\Debug\net8.0\ExceptionHandingTxtFileRead.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\ExceptionHandingTxtFileRead\bin\Debug\net8.0\ExceptionHandingTxtFileRead.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\ExceptionHandingTxtFileRead\bin\Debug\net8.0\ExceptionHandingTxtFileRead.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ExceptionHandingTxtFileRead\bin\Debug\net8.0\ExceptionHandingTxtFileRead.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\ExceptionHandingTxtFileRead\obj\Debug\net8.0\ExceptionHandingTxtFileRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\ExceptionHandingTxtFileRead\obj\Debug\net8.0\ExceptionHandingTxtFileRead.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ExceptionHandingTxtFileRead\obj\Debug\net8.0\ExceptionHandingTxtFileRead.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\ExceptionHandingTxtFileRead\obj\Debug\net8.0\ExceptionHandingTxtFileRead.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ExceptionHandingTxtFileRead\obj\Debug\net8.0\ExceptionHandingTxtFileRead.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ExceptionHandingTxtFileRead\obj\Debug\net8.0\refint\ExceptionHandingTxtFileRead.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ExceptionHandingTxtFileRead\obj\Debug\net8.0\ExceptionHandingTxtFileRead.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\ExceptionHandingTxtFileRead\obj\Debug\net8.0\ExceptionHandingTxtFileRead.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ExceptionHandingTxtFileRead\obj\Debug\net8.0\ref\ExceptionHandingTxtFileRead.dll

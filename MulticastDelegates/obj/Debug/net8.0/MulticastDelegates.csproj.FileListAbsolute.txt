@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\MulticastDelegates\bin\Debug\net8.0\MulticastDelegates.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\MulticastDelegates\bin\Debug\net8.0\MulticastDelegates.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\MulticastDelegates\bin\Debug\net8.0\MulticastDelegates.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\MulticastDelegates\bin\Debug\net8.0\MulticastDelegates.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\MulticastDelegates\bin\Debug\net8.0\MulticastDelegates.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\MulticastDelegates\obj\Debug\net8.0\MulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\MulticastDelegates\obj\Debug\net8.0\MulticastDelegates.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\MulticastDelegates\obj\Debug\net8.0\MulticastDelegates.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\MulticastDelegates\obj\Debug\net8.0\MulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\MulticastDelegates\obj\Debug\net8.0\MulticastDelegates.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\MulticastDelegates\obj\Debug\net8.0\refint\MulticastDelegates.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\MulticastDelegates\obj\Debug\net8.0\MulticastDelegates.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\MulticastDelegates\obj\Debug\net8.0\MulticastDelegates.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\MulticastDelegates\obj\Debug\net8.0\ref\MulticastDelegates.dll
