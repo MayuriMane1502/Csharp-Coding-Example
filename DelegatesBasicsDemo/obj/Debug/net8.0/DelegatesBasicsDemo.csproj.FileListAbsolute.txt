@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\DelegatesBasicsDemo\bin\Debug\net8.0\DelegatesBasicsDemo.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\DelegatesBasicsDemo\bin\Debug\net8.0\DelegatesBasicsDemo.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\DelegatesBasicsDemo\bin\Debug\net8.0\DelegatesBasicsDemo.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\DelegatesBasicsDemo\bin\Debug\net8.0\DelegatesBasicsDemo.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DelegatesBasicsDemo\bin\Debug\net8.0\DelegatesBasicsDemo.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\DelegatesBasicsDemo\obj\Debug\net8.0\DelegatesBasicsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\DelegatesBasicsDemo\obj\Debug\net8.0\DelegatesBasicsDemo.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DelegatesBasicsDemo\obj\Debug\net8.0\DelegatesBasicsDemo.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\DelegatesBasicsDemo\obj\Debug\net8.0\DelegatesBasicsDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DelegatesBasicsDemo\obj\Debug\net8.0\DelegatesBasicsDemo.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DelegatesBasicsDemo\obj\Debug\net8.0\refint\DelegatesBasicsDemo.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DelegatesBasicsDemo\obj\Debug\net8.0\DelegatesBasicsDemo.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\DelegatesBasicsDemo\obj\Debug\net8.0\DelegatesBasicsDemo.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DelegatesBasicsDemo\obj\Debug\net8.0\ref\DelegatesBasicsDemo.dll

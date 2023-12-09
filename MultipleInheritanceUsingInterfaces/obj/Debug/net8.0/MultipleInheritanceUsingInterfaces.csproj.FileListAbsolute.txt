@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\MultipleInheritanceUsingInterfaces\bin\Debug\net8.0\MultipleInheritanceUsingInterfaces.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\MultipleInheritanceUsingInterfaces\bin\Debug\net8.0\MultipleInheritanceUsingInterfaces.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\MultipleInheritanceUsingInterfaces\bin\Debug\net8.0\MultipleInheritanceUsingInterfaces.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\MultipleInheritanceUsingInterfaces\bin\Debug\net8.0\MultipleInheritanceUsingInterfaces.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\MultipleInheritanceUsingInterfaces\bin\Debug\net8.0\MultipleInheritanceUsingInterfaces.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\MultipleInheritanceUsingInterfaces\obj\Debug\net8.0\MultipleInheritanceUsingInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\MultipleInheritanceUsingInterfaces\obj\Debug\net8.0\MultipleInheritanceUsingInterfaces.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\MultipleInheritanceUsingInterfaces\obj\Debug\net8.0\MultipleInheritanceUsingInterfaces.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\MultipleInheritanceUsingInterfaces\obj\Debug\net8.0\MultipleInheritanceUsingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\MultipleInheritanceUsingInterfaces\obj\Debug\net8.0\MultipleInheritanceUsingInterfaces.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\MultipleInheritanceUsingInterfaces\obj\Debug\net8.0\refint\MultipleInheritanceUsingInterfaces.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\MultipleInheritanceUsingInterfaces\obj\Debug\net8.0\MultipleInheritanceUsingInterfaces.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\MultipleInheritanceUsingInterfaces\obj\Debug\net8.0\MultipleInheritanceUsingInterfaces.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\MultipleInheritanceUsingInterfaces\obj\Debug\net8.0\ref\MultipleInheritanceUsingInterfaces.dll
