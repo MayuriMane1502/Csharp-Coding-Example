@@ -1,0 +1,4 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\Properties-GetSet accessors\obj\Debug\net8.0\Properties-GetSet accessors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\Properties-GetSet accessors\obj\Debug\net8.0\Properties-GetSet accessors.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\Properties-GetSet accessors\obj\Debug\net8.0\Properties-GetSet accessors.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\Properties-GetSet accessors\obj\Debug\net8.0\Properties-GetSet accessors.csproj.CoreCompileInputs.cache

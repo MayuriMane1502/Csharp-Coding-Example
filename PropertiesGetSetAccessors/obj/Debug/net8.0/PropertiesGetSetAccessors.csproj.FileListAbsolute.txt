@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\PropertiesGetSetAccessors\bin\Debug\net8.0\PropertiesGetSetAccessors.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\PropertiesGetSetAccessors\bin\Debug\net8.0\PropertiesGetSetAccessors.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\PropertiesGetSetAccessors\bin\Debug\net8.0\PropertiesGetSetAccessors.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\PropertiesGetSetAccessors\bin\Debug\net8.0\PropertiesGetSetAccessors.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\PropertiesGetSetAccessors\bin\Debug\net8.0\PropertiesGetSetAccessors.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\PropertiesGetSetAccessors\obj\Debug\net8.0\PropertiesGetSetAccessors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\PropertiesGetSetAccessors\obj\Debug\net8.0\PropertiesGetSetAccessors.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\PropertiesGetSetAccessors\obj\Debug\net8.0\PropertiesGetSetAccessors.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\PropertiesGetSetAccessors\obj\Debug\net8.0\PropertiesGetSetAccessors.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\PropertiesGetSetAccessors\obj\Debug\net8.0\PropertiesGetSetAccessors.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\PropertiesGetSetAccessors\obj\Debug\net8.0\refint\PropertiesGetSetAccessors.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\PropertiesGetSetAccessors\obj\Debug\net8.0\PropertiesGetSetAccessors.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\PropertiesGetSetAccessors\obj\Debug\net8.0\PropertiesGetSetAccessors.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\PropertiesGetSetAccessors\obj\Debug\net8.0\ref\PropertiesGetSetAccessors.dll
