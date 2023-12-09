@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\InheritanceExample\bin\Debug\net8.0\InheritanceExample.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\InheritanceExample\bin\Debug\net8.0\InheritanceExample.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\InheritanceExample\bin\Debug\net8.0\InheritanceExample.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\InheritanceExample\bin\Debug\net8.0\InheritanceExample.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\InheritanceExample\bin\Debug\net8.0\InheritanceExample.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\InheritanceExample\obj\Debug\net8.0\InheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\InheritanceExample\obj\Debug\net8.0\InheritanceExample.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\InheritanceExample\obj\Debug\net8.0\InheritanceExample.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\InheritanceExample\obj\Debug\net8.0\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\InheritanceExample\obj\Debug\net8.0\InheritanceExample.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\InheritanceExample\obj\Debug\net8.0\refint\InheritanceExample.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\InheritanceExample\obj\Debug\net8.0\InheritanceExample.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\InheritanceExample\obj\Debug\net8.0\InheritanceExample.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\InheritanceExample\obj\Debug\net8.0\ref\InheritanceExample.dll

@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\ConsoleApp1\bin\Debug\net8.0\ClassRelatedProgram.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\ConsoleApp1\bin\Debug\net8.0\ClassRelatedProgram.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\ConsoleApp1\bin\Debug\net8.0\ClassRelatedProgram.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\ConsoleApp1\bin\Debug\net8.0\ClassRelatedProgram.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ConsoleApp1\bin\Debug\net8.0\ClassRelatedProgram.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\ConsoleApp1\obj\Debug\net8.0\ClassRelatedProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\ConsoleApp1\obj\Debug\net8.0\ClassRelatedProgram.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ConsoleApp1\obj\Debug\net8.0\ClassRelatedProgram.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\ConsoleApp1\obj\Debug\net8.0\ClassRelatedProgram.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ConsoleApp1\obj\Debug\net8.0\ClassRelatedProgram.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ConsoleApp1\obj\Debug\net8.0\refint\ClassRelatedProgram.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ConsoleApp1\obj\Debug\net8.0\ClassRelatedProgram.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\ConsoleApp1\obj\Debug\net8.0\ClassRelatedProgram.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ConsoleApp1\obj\Debug\net8.0\ref\ClassRelatedProgram.dll
