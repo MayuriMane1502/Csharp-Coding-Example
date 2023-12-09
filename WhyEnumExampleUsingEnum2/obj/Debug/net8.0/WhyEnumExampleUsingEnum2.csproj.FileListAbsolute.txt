@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleUsingEnum2\bin\Debug\net8.0\WhyEnumExampleUsingEnum2.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleUsingEnum2\bin\Debug\net8.0\WhyEnumExampleUsingEnum2.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleUsingEnum2\bin\Debug\net8.0\WhyEnumExampleUsingEnum2.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleUsingEnum2\bin\Debug\net8.0\WhyEnumExampleUsingEnum2.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleUsingEnum2\bin\Debug\net8.0\WhyEnumExampleUsingEnum2.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleUsingEnum2\obj\Debug\net8.0\WhyEnumExampleUsingEnum2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleUsingEnum2\obj\Debug\net8.0\WhyEnumExampleUsingEnum2.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleUsingEnum2\obj\Debug\net8.0\WhyEnumExampleUsingEnum2.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleUsingEnum2\obj\Debug\net8.0\WhyEnumExampleUsingEnum2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleUsingEnum2\obj\Debug\net8.0\WhyEnumExampleUsingEnum2.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleUsingEnum2\obj\Debug\net8.0\refint\WhyEnumExampleUsingEnum2.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleUsingEnum2\obj\Debug\net8.0\WhyEnumExampleUsingEnum2.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleUsingEnum2\obj\Debug\net8.0\WhyEnumExampleUsingEnum2.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\WhyEnumExampleUsingEnum2\obj\Debug\net8.0\ref\WhyEnumExampleUsingEnum2.dll
