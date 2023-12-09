@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\InterfaceIntro2\bin\Debug\net8.0\InterfaceIntro2.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\InterfaceIntro2\bin\Debug\net8.0\InterfaceIntro2.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\InterfaceIntro2\bin\Debug\net8.0\InterfaceIntro2.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\InterfaceIntro2\bin\Debug\net8.0\InterfaceIntro2.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\InterfaceIntro2\bin\Debug\net8.0\InterfaceIntro2.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\InterfaceIntro2\obj\Debug\net8.0\InterfaceIntro2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\InterfaceIntro2\obj\Debug\net8.0\InterfaceIntro2.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\InterfaceIntro2\obj\Debug\net8.0\InterfaceIntro2.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\InterfaceIntro2\obj\Debug\net8.0\InterfaceIntro2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\InterfaceIntro2\obj\Debug\net8.0\InterfaceIntro2.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\InterfaceIntro2\obj\Debug\net8.0\refint\InterfaceIntro2.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\InterfaceIntro2\obj\Debug\net8.0\InterfaceIntro2.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\InterfaceIntro2\obj\Debug\net8.0\InterfaceIntro2.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\InterfaceIntro2\obj\Debug\net8.0\ref\InterfaceIntro2.dll

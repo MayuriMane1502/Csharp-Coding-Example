@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InterfaceIntro2/1.0.0": {
+        "runtime": {
+          "InterfaceIntro2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfaceIntro2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

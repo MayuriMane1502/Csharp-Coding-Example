@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\ExplicitInterfaceExample\bin\Debug\net8.0\ExplicitInterfaceExample.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\ExplicitInterfaceExample\bin\Debug\net8.0\ExplicitInterfaceExample.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\ExplicitInterfaceExample\bin\Debug\net8.0\ExplicitInterfaceExample.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\ExplicitInterfaceExample\bin\Debug\net8.0\ExplicitInterfaceExample.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ExplicitInterfaceExample\bin\Debug\net8.0\ExplicitInterfaceExample.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\ExplicitInterfaceExample\obj\Debug\net8.0\ExplicitInterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\ExplicitInterfaceExample\obj\Debug\net8.0\ExplicitInterfaceExample.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ExplicitInterfaceExample\obj\Debug\net8.0\ExplicitInterfaceExample.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\ExplicitInterfaceExample\obj\Debug\net8.0\ExplicitInterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ExplicitInterfaceExample\obj\Debug\net8.0\ExplicitInterfaceExample.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ExplicitInterfaceExample\obj\Debug\net8.0\refint\ExplicitInterfaceExample.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ExplicitInterfaceExample\obj\Debug\net8.0\ExplicitInterfaceExample.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\ExplicitInterfaceExample\obj\Debug\net8.0\ExplicitInterfaceExample.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ExplicitInterfaceExample\obj\Debug\net8.0\ref\ExplicitInterfaceExample.dll
