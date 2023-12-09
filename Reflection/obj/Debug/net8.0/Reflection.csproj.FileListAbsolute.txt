@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\Reflection\obj\Debug\net8.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\Reflection\obj\Debug\net8.0\Reflection.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\Reflection\obj\Debug\net8.0\Reflection.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\Reflection\obj\Debug\net8.0\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\Reflection\bin\Debug\net8.0\Reflection.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\Reflection\bin\Debug\net8.0\Reflection.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\Reflection\bin\Debug\net8.0\Reflection.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\Reflection\bin\Debug\net8.0\Reflection.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\Reflection\bin\Debug\net8.0\Reflection.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\Reflection\obj\Debug\net8.0\Reflection.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\Reflection\obj\Debug\net8.0\refint\Reflection.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\Reflection\obj\Debug\net8.0\Reflection.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\Reflection\obj\Debug\net8.0\Reflection.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\Reflection\obj\Debug\net8.0\ref\Reflection.dll
