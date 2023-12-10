@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericsExample\bin\Debug\net8.0\GenericsExample.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericsExample\bin\Debug\net8.0\GenericsExample.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericsExample\bin\Debug\net8.0\GenericsExample.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericsExample\bin\Debug\net8.0\GenericsExample.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericsExample\bin\Debug\net8.0\GenericsExample.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericsExample\obj\Debug\net8.0\GenericsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericsExample\obj\Debug\net8.0\GenericsExample.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericsExample\obj\Debug\net8.0\GenericsExample.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericsExample\obj\Debug\net8.0\GenericsExample.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericsExample\obj\Debug\net8.0\GenericsExample.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericsExample\obj\Debug\net8.0\refint\GenericsExample.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericsExample\obj\Debug\net8.0\GenericsExample.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericsExample\obj\Debug\net8.0\GenericsExample.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericsExample\obj\Debug\net8.0\ref\GenericsExample.dll
