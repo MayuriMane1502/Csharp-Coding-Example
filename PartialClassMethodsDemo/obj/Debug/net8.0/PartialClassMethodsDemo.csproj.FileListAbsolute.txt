@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\PartialClassMethodsDemo\bin\Debug\net8.0\PartialClassMethodsDemo.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\PartialClassMethodsDemo\bin\Debug\net8.0\PartialClassMethodsDemo.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\PartialClassMethodsDemo\bin\Debug\net8.0\PartialClassMethodsDemo.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\PartialClassMethodsDemo\bin\Debug\net8.0\PartialClassMethodsDemo.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\PartialClassMethodsDemo\bin\Debug\net8.0\PartialClassMethodsDemo.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\PartialClassMethodsDemo\obj\Debug\net8.0\PartialClassMethodsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\PartialClassMethodsDemo\obj\Debug\net8.0\PartialClassMethodsDemo.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\PartialClassMethodsDemo\obj\Debug\net8.0\PartialClassMethodsDemo.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\PartialClassMethodsDemo\obj\Debug\net8.0\PartialClassMethodsDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\PartialClassMethodsDemo\obj\Debug\net8.0\PartialClassMethodsDemo.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\PartialClassMethodsDemo\obj\Debug\net8.0\refint\PartialClassMethodsDemo.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\PartialClassMethodsDemo\obj\Debug\net8.0\PartialClassMethodsDemo.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\PartialClassMethodsDemo\obj\Debug\net8.0\PartialClassMethodsDemo.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\PartialClassMethodsDemo\obj\Debug\net8.0\ref\PartialClassMethodsDemo.dll
