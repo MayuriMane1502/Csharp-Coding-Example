@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\OverrideEqualsMethod\bin\Debug\net8.0\OverrideEqualsMethod.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\OverrideEqualsMethod\bin\Debug\net8.0\OverrideEqualsMethod.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\OverrideEqualsMethod\bin\Debug\net8.0\OverrideEqualsMethod.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\OverrideEqualsMethod\bin\Debug\net8.0\OverrideEqualsMethod.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\OverrideEqualsMethod\bin\Debug\net8.0\OverrideEqualsMethod.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\OverrideEqualsMethod\obj\Debug\net8.0\OverrideEqualsMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\OverrideEqualsMethod\obj\Debug\net8.0\OverrideEqualsMethod.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\OverrideEqualsMethod\obj\Debug\net8.0\OverrideEqualsMethod.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\OverrideEqualsMethod\obj\Debug\net8.0\OverrideEqualsMethod.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\OverrideEqualsMethod\obj\Debug\net8.0\OverrideEqualsMethod.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\OverrideEqualsMethod\obj\Debug\net8.0\refint\OverrideEqualsMethod.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\OverrideEqualsMethod\obj\Debug\net8.0\OverrideEqualsMethod.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\OverrideEqualsMethod\obj\Debug\net8.0\OverrideEqualsMethod.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\OverrideEqualsMethod\obj\Debug\net8.0\ref\OverrideEqualsMethod.dll

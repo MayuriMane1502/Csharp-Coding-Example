@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OverrideEqualsMethod/1.0.0": {
+        "runtime": {
+          "OverrideEqualsMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OverrideEqualsMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

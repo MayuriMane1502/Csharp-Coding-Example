@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceBetConvertToStringVSToString\bin\Debug\net8.0\DifferenceBetConvertToStringVSToString.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceBetConvertToStringVSToString\bin\Debug\net8.0\DifferenceBetConvertToStringVSToString.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceBetConvertToStringVSToString\bin\Debug\net8.0\DifferenceBetConvertToStringVSToString.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceBetConvertToStringVSToString\bin\Debug\net8.0\DifferenceBetConvertToStringVSToString.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceBetConvertToStringVSToString\bin\Debug\net8.0\DifferenceBetConvertToStringVSToString.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceBetConvertToStringVSToString\obj\Debug\net8.0\DifferenceBetConvertToStringVSToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceBetConvertToStringVSToString\obj\Debug\net8.0\DifferenceBetConvertToStringVSToString.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceBetConvertToStringVSToString\obj\Debug\net8.0\DifferenceBetConvertToStringVSToString.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceBetConvertToStringVSToString\obj\Debug\net8.0\DifferenceBetConvertToStringVSToString.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceBetConvertToStringVSToString\obj\Debug\net8.0\DifferenceBetConvertToStringVSToString.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceBetConvertToStringVSToString\obj\Debug\net8.0\refint\DifferenceBetConvertToStringVSToString.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceBetConvertToStringVSToString\obj\Debug\net8.0\DifferenceBetConvertToStringVSToString.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceBetConvertToStringVSToString\obj\Debug\net8.0\DifferenceBetConvertToStringVSToString.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DifferenceBetConvertToStringVSToString\obj\Debug\net8.0\ref\DifferenceBetConvertToStringVSToString.dll
