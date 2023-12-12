@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\IndexerInCsharp\bin\Debug\net8.0\IndexerInCsharp.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\IndexerInCsharp\bin\Debug\net8.0\IndexerInCsharp.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\IndexerInCsharp\bin\Debug\net8.0\IndexerInCsharp.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\IndexerInCsharp\bin\Debug\net8.0\IndexerInCsharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\IndexerInCsharp\bin\Debug\net8.0\IndexerInCsharp.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\IndexerInCsharp\obj\Debug\net8.0\IndexerInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\IndexerInCsharp\obj\Debug\net8.0\IndexerInCsharp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\IndexerInCsharp\obj\Debug\net8.0\IndexerInCsharp.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\IndexerInCsharp\obj\Debug\net8.0\IndexerInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\IndexerInCsharp\obj\Debug\net8.0\IndexerInCsharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\IndexerInCsharp\obj\Debug\net8.0\refint\IndexerInCsharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\IndexerInCsharp\obj\Debug\net8.0\IndexerInCsharp.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\IndexerInCsharp\obj\Debug\net8.0\IndexerInCsharp.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\IndexerInCsharp\obj\Debug\net8.0\ref\IndexerInCsharp.dll
