@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\ParametersInCsharpUsingArray\bin\Debug\net8.0\ParametersInCsharpUsingArray.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\ParametersInCsharpUsingArray\bin\Debug\net8.0\ParametersInCsharpUsingArray.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\ParametersInCsharpUsingArray\bin\Debug\net8.0\ParametersInCsharpUsingArray.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\ParametersInCsharpUsingArray\bin\Debug\net8.0\ParametersInCsharpUsingArray.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ParametersInCsharpUsingArray\bin\Debug\net8.0\ParametersInCsharpUsingArray.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\ParametersInCsharpUsingArray\obj\Debug\net8.0\ParametersInCsharpUsingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\ParametersInCsharpUsingArray\obj\Debug\net8.0\ParametersInCsharpUsingArray.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ParametersInCsharpUsingArray\obj\Debug\net8.0\ParametersInCsharpUsingArray.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\ParametersInCsharpUsingArray\obj\Debug\net8.0\ParametersInCsharpUsingArray.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ParametersInCsharpUsingArray\obj\Debug\net8.0\ParametersInCsharpUsingArray.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ParametersInCsharpUsingArray\obj\Debug\net8.0\refint\ParametersInCsharpUsingArray.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ParametersInCsharpUsingArray\obj\Debug\net8.0\ParametersInCsharpUsingArray.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\ParametersInCsharpUsingArray\obj\Debug\net8.0\ParametersInCsharpUsingArray.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ParametersInCsharpUsingArray\obj\Debug\net8.0\ref\ParametersInCsharpUsingArray.dll
