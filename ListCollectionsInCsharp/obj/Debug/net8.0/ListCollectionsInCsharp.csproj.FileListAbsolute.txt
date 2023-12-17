@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\ListCollectionsInCsharp\bin\Debug\net8.0\ListCollectionsInCsharp.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\ListCollectionsInCsharp\bin\Debug\net8.0\ListCollectionsInCsharp.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\ListCollectionsInCsharp\bin\Debug\net8.0\ListCollectionsInCsharp.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\ListCollectionsInCsharp\bin\Debug\net8.0\ListCollectionsInCsharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ListCollectionsInCsharp\bin\Debug\net8.0\ListCollectionsInCsharp.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\ListCollectionsInCsharp\obj\Debug\net8.0\ListCollectionsInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\ListCollectionsInCsharp\obj\Debug\net8.0\ListCollectionsInCsharp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ListCollectionsInCsharp\obj\Debug\net8.0\ListCollectionsInCsharp.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\ListCollectionsInCsharp\obj\Debug\net8.0\ListCollectionsInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ListCollectionsInCsharp\obj\Debug\net8.0\ListCollectionsInCsharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ListCollectionsInCsharp\obj\Debug\net8.0\refint\ListCollectionsInCsharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\ListCollectionsInCsharp\obj\Debug\net8.0\ListCollectionsInCsharp.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\ListCollectionsInCsharp\obj\Debug\net8.0\ListCollectionsInCsharp.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\ListCollectionsInCsharp\obj\Debug\net8.0\ref\ListCollectionsInCsharp.dll
