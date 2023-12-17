@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharpUsingMethods\bin\Debug\net8.0\DictionaryInCsharpUsingMethods.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharpUsingMethods\bin\Debug\net8.0\DictionaryInCsharpUsingMethods.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharpUsingMethods\bin\Debug\net8.0\DictionaryInCsharpUsingMethods.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharpUsingMethods\bin\Debug\net8.0\DictionaryInCsharpUsingMethods.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharpUsingMethods\bin\Debug\net8.0\DictionaryInCsharpUsingMethods.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharpUsingMethods\obj\Debug\net8.0\DictionaryInCsharpUsingMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharpUsingMethods\obj\Debug\net8.0\DictionaryInCsharpUsingMethods.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharpUsingMethods\obj\Debug\net8.0\DictionaryInCsharpUsingMethods.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharpUsingMethods\obj\Debug\net8.0\DictionaryInCsharpUsingMethods.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharpUsingMethods\obj\Debug\net8.0\DictionaryInCsharpUsingMethods.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharpUsingMethods\obj\Debug\net8.0\refint\DictionaryInCsharpUsingMethods.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharpUsingMethods\obj\Debug\net8.0\DictionaryInCsharpUsingMethods.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharpUsingMethods\obj\Debug\net8.0\DictionaryInCsharpUsingMethods.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharpUsingMethods\obj\Debug\net8.0\ref\DictionaryInCsharpUsingMethods.dll

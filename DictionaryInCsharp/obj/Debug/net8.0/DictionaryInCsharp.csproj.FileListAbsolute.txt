@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharp\obj\Debug\net8.0\DictionaryInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharp\obj\Debug\net8.0\DictionaryInCsharp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharp\obj\Debug\net8.0\DictionaryInCsharp.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharp\obj\Debug\net8.0\DictionaryInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharp\bin\Debug\net8.0\DictionaryInCsharp.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharp\bin\Debug\net8.0\DictionaryInCsharp.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharp\bin\Debug\net8.0\DictionaryInCsharp.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharp\bin\Debug\net8.0\DictionaryInCsharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharp\bin\Debug\net8.0\DictionaryInCsharp.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharp\obj\Debug\net8.0\DictionaryInCsharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharp\obj\Debug\net8.0\refint\DictionaryInCsharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharp\obj\Debug\net8.0\DictionaryInCsharp.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharp\obj\Debug\net8.0\DictionaryInCsharp.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryInCsharp\obj\Debug\net8.0\ref\DictionaryInCsharp.dll
