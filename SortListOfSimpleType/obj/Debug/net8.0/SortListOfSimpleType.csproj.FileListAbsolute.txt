@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfSimpleType\bin\Debug\net8.0\SortListOfSimpleType.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfSimpleType\bin\Debug\net8.0\SortListOfSimpleType.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfSimpleType\bin\Debug\net8.0\SortListOfSimpleType.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfSimpleType\bin\Debug\net8.0\SortListOfSimpleType.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfSimpleType\bin\Debug\net8.0\SortListOfSimpleType.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfSimpleType\obj\Debug\net8.0\SortListOfSimpleType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfSimpleType\obj\Debug\net8.0\SortListOfSimpleType.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfSimpleType\obj\Debug\net8.0\SortListOfSimpleType.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfSimpleType\obj\Debug\net8.0\SortListOfSimpleType.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfSimpleType\obj\Debug\net8.0\SortListOfSimpleType.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfSimpleType\obj\Debug\net8.0\refint\SortListOfSimpleType.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfSimpleType\obj\Debug\net8.0\SortListOfSimpleType.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfSimpleType\obj\Debug\net8.0\SortListOfSimpleType.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfSimpleType\obj\Debug\net8.0\ref\SortListOfSimpleType.dll

@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfComplexType\bin\Debug\net8.0\SortListOfComplexType.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfComplexType\bin\Debug\net8.0\SortListOfComplexType.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfComplexType\bin\Debug\net8.0\SortListOfComplexType.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfComplexType\bin\Debug\net8.0\SortListOfComplexType.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfComplexType\bin\Debug\net8.0\SortListOfComplexType.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfComplexType\obj\Debug\net8.0\SortListOfComplexType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfComplexType\obj\Debug\net8.0\SortListOfComplexType.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfComplexType\obj\Debug\net8.0\SortListOfComplexType.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfComplexType\obj\Debug\net8.0\SortListOfComplexType.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfComplexType\obj\Debug\net8.0\SortListOfComplexType.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfComplexType\obj\Debug\net8.0\refint\SortListOfComplexType.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfComplexType\obj\Debug\net8.0\SortListOfComplexType.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfComplexType\obj\Debug\net8.0\SortListOfComplexType.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\SortListOfComplexType\obj\Debug\net8.0\ref\SortListOfComplexType.dll

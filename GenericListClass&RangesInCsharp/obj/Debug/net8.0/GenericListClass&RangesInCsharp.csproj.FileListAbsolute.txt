@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericListClass&RangesInCsharp\bin\Debug\net8.0\GenericListClass&RangesInCsharp.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericListClass&RangesInCsharp\bin\Debug\net8.0\GenericListClass&RangesInCsharp.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericListClass&RangesInCsharp\bin\Debug\net8.0\GenericListClass&RangesInCsharp.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericListClass&RangesInCsharp\bin\Debug\net8.0\GenericListClass&RangesInCsharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericListClass&RangesInCsharp\bin\Debug\net8.0\GenericListClass&RangesInCsharp.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericListClass&RangesInCsharp\obj\Debug\net8.0\GenericListClass&RangesInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericListClass&RangesInCsharp\obj\Debug\net8.0\GenericListClass&RangesInCsharp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericListClass&RangesInCsharp\obj\Debug\net8.0\GenericListClass&RangesInCsharp.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericListClass&RangesInCsharp\obj\Debug\net8.0\GenericListClass&RangesInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericListClass&RangesInCsharp\obj\Debug\net8.0\GenericListClass&RangesInCsharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericListClass&RangesInCsharp\obj\Debug\net8.0\refint\GenericListClass&RangesInCsharp.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericListClass&RangesInCsharp\obj\Debug\net8.0\GenericListClass&RangesInCsharp.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericListClass&RangesInCsharp\obj\Debug\net8.0\GenericListClass&RangesInCsharp.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericListClass&RangesInCsharp\obj\Debug\net8.0\ref\GenericListClass&RangesInCsharp.dll
