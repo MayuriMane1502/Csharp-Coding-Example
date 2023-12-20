@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryOverList\bin\Debug\net8.0\DictionaryOverList.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryOverList\bin\Debug\net8.0\DictionaryOverList.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryOverList\bin\Debug\net8.0\DictionaryOverList.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryOverList\bin\Debug\net8.0\DictionaryOverList.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryOverList\bin\Debug\net8.0\DictionaryOverList.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryOverList\obj\Debug\net8.0\DictionaryOverList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryOverList\obj\Debug\net8.0\DictionaryOverList.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryOverList\obj\Debug\net8.0\DictionaryOverList.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryOverList\obj\Debug\net8.0\DictionaryOverList.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryOverList\obj\Debug\net8.0\DictionaryOverList.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryOverList\obj\Debug\net8.0\refint\DictionaryOverList.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryOverList\obj\Debug\net8.0\DictionaryOverList.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryOverList\obj\Debug\net8.0\DictionaryOverList.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\DictionaryOverList\obj\Debug\net8.0\ref\DictionaryOverList.dll

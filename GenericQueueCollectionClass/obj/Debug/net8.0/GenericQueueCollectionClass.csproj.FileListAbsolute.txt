@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericQueueCollectionClass\bin\Debug\net8.0\GenericQueueCollectionClass.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericQueueCollectionClass\bin\Debug\net8.0\GenericQueueCollectionClass.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericQueueCollectionClass\bin\Debug\net8.0\GenericQueueCollectionClass.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericQueueCollectionClass\bin\Debug\net8.0\GenericQueueCollectionClass.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericQueueCollectionClass\bin\Debug\net8.0\GenericQueueCollectionClass.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericQueueCollectionClass\obj\Debug\net8.0\GenericQueueCollectionClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericQueueCollectionClass\obj\Debug\net8.0\GenericQueueCollectionClass.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericQueueCollectionClass\obj\Debug\net8.0\GenericQueueCollectionClass.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericQueueCollectionClass\obj\Debug\net8.0\GenericQueueCollectionClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericQueueCollectionClass\obj\Debug\net8.0\GenericQueueCollectionClass.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericQueueCollectionClass\obj\Debug\net8.0\refint\GenericQueueCollectionClass.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericQueueCollectionClass\obj\Debug\net8.0\GenericQueueCollectionClass.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericQueueCollectionClass\obj\Debug\net8.0\GenericQueueCollectionClass.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericQueueCollectionClass\obj\Debug\net8.0\ref\GenericQueueCollectionClass.dll

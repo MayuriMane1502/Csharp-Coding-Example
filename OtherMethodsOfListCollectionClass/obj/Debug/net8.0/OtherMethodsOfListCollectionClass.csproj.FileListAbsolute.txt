@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\OtherMethodsOfListCollectionClass\bin\Debug\net8.0\OtherMethodsOfListCollectionClass.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\OtherMethodsOfListCollectionClass\bin\Debug\net8.0\OtherMethodsOfListCollectionClass.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\OtherMethodsOfListCollectionClass\bin\Debug\net8.0\OtherMethodsOfListCollectionClass.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\OtherMethodsOfListCollectionClass\bin\Debug\net8.0\OtherMethodsOfListCollectionClass.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\OtherMethodsOfListCollectionClass\bin\Debug\net8.0\OtherMethodsOfListCollectionClass.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\OtherMethodsOfListCollectionClass\obj\Debug\net8.0\OtherMethodsOfListCollectionClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\OtherMethodsOfListCollectionClass\obj\Debug\net8.0\OtherMethodsOfListCollectionClass.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\OtherMethodsOfListCollectionClass\obj\Debug\net8.0\OtherMethodsOfListCollectionClass.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\OtherMethodsOfListCollectionClass\obj\Debug\net8.0\OtherMethodsOfListCollectionClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\OtherMethodsOfListCollectionClass\obj\Debug\net8.0\OtherMethodsOfListCollectionClass.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\OtherMethodsOfListCollectionClass\obj\Debug\net8.0\refint\OtherMethodsOfListCollectionClass.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\OtherMethodsOfListCollectionClass\obj\Debug\net8.0\OtherMethodsOfListCollectionClass.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\OtherMethodsOfListCollectionClass\obj\Debug\net8.0\OtherMethodsOfListCollectionClass.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\OtherMethodsOfListCollectionClass\obj\Debug\net8.0\ref\OtherMethodsOfListCollectionClass.dll
