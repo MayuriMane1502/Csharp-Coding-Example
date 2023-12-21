@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericStackCollectionClass\bin\Debug\net8.0\GenericStackCollectionClass.exe
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericStackCollectionClass\bin\Debug\net8.0\GenericStackCollectionClass.deps.json
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericStackCollectionClass\bin\Debug\net8.0\GenericStackCollectionClass.runtimeconfig.json
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericStackCollectionClass\bin\Debug\net8.0\GenericStackCollectionClass.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericStackCollectionClass\bin\Debug\net8.0\GenericStackCollectionClass.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericStackCollectionClass\obj\Debug\net8.0\GenericStackCollectionClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericStackCollectionClass\obj\Debug\net8.0\GenericStackCollectionClass.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericStackCollectionClass\obj\Debug\net8.0\GenericStackCollectionClass.AssemblyInfo.cs
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericStackCollectionClass\obj\Debug\net8.0\GenericStackCollectionClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericStackCollectionClass\obj\Debug\net8.0\GenericStackCollectionClass.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericStackCollectionClass\obj\Debug\net8.0\refint\GenericStackCollectionClass.dll
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericStackCollectionClass\obj\Debug\net8.0\GenericStackCollectionClass.pdb
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericStackCollectionClass\obj\Debug\net8.0\GenericStackCollectionClass.genruntimeconfig.cache
+C:\Users\hp\source\repos\IntroductionToCsharp\GenericStackCollectionClass\obj\Debug\net8.0\ref\GenericStackCollectionClass.dll
